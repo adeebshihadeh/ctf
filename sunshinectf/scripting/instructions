@@ -1,0 +1,99 @@
+Some of our file systems have been corrupted recently, we need
+your help to find which folders are corrupted.
+------------------------------------------------------------
+
+You will be placed in the file systems one by one and you will
+need to navigate through the systems. You will see some of
+the folders have contents whose sizes don't add up to the same
+size of the folder they are in. We need you to find these folders.
+
+There are three available commands:
+cd [destination] - Change working directory to destination
+ls [destination] - List contents of destination, Leave destination blank for ./
+                    Lists contents of destination in the form:
+                    [destination]: (number of contents)
+                    entry_name entry_type entry_size
+                    An example:
+                    /: $ ls fdsk
+                    fdsk: (2 entries)
+                    tfi   DIR  43294
+                    abdka FILE 9543
+send [destination] - Send destination as an answer, if you get a folder wrong
+                        you get kicked out of the system!
+    
+Below is an example.
+------------------------------------------------------------
+
+/: $ ls
+/: (4 entries)
+xkkgj   DIR  7450
+ddh     FILE 2
+uijuse  FILE 4
+kiua    FILE 5
+/: $ cd xkkgj
+/xkkgj: $ ls
+/xkkgj: (5 entries)
+qoj     DIR  7
+vrikuw  DIR  31
+krqg    DIR  4150
+vlqhe   FILE 1
+jfkmaev DIR  3261
+/xkkgj: $ cd qoj
+/xkkgj/qoj: $ ls
+/xkkgj/qoj: (4 entries)
+sepk    FILE 2
+ybwi    FILE 3
+ecoxtam FILE 1
+rlmav   FILE 1
+/xkkgj/qoj: $ cd ..
+/xkkgj: $ cd vrikuw
+/xkkgj/vrikuw: $ ls
+/xkkgj/vrikuw: (8 entries)
+jns     FILE 4
+eaqps   FILE 5
+pwdq    FILE 4
+rosopj  FILE 5
+whicb   FILE 3
+gbekky  FILE 4
+xvumook FILE 1
+btliuft FILE 5
+/xkkgj/vrikuw: $ cd ..
+/xkkgj: $ cd krqg
+/xkkgj/krqg: $ ls
+/xkkgj/krqg: (10 entries)
+pgfd    FILE 3
+bpdi    FILE 4
+xpgswzo FILE 5
+tyynmoi FILE 1
+hqky    FILE 3
+pgn     FILE 3
+jlnxx   FILE 5
+gsmyl   FILE 5
+ucarx   FILE 1
+epueuow FILE 3
+/xkkgj/krqg: $ cd ..
+/xkkgj: $ send krqg
+Correct!
+/xkkgj: $ cd jfkmaev
+/xkkgj/jfkmaev: $ ls
+/xkkgj/jfkmaev: (10 entries)
+qlyq    FILE 3
+nzp     FILE 4
+vmiai   FILE 4
+eayv    FILE 4
+ztql    FILE 4
+pddu    FILE 1
+adf     FILE 5
+ejwrlhy FILE 5
+fveby   FILE 5
+vreqfv  FILE 2
+/xkkgj/jfkmaev: $ send .
+Correct!
+Hooray! You found all the corrupted folders!
+Now on to the next system
+
+Notice in the example that /xkkgj/krpg is one of the corrupt folders but /xkkgj
+is not. The /xkkgj's size matches the sum of the files and directories under it
+including with /xkkgj/krpg's incorrect size, in this case /xkkgj is not
+considered wrong.
+

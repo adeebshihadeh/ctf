@@ -1,0 +1,4 @@
+host: bandit.labs.overthewire.org
+port: 2220
+
+ssh banditX@bandit.labs.overthewire.org -p 2220

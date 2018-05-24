@@ -1,0 +1,7 @@
+make dir in /tmp
+
+make symlink to /etc/leviathan_pass/leviathan3 in the dir
+
+make dummy file with a space to add to printfile call
+
+~/printfile "leviathan3 a"

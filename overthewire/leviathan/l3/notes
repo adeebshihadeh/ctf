@@ -1,0 +1,7 @@
+use ltrace to get password
+
+password gives shell
+
+run level3 binary within that shell to get a shell as leviathan4
+
+read pass from /etc/leviathan_pass/leviathan4

@@ -1,0 +1,3 @@
+==== find me ====
+
+for i in {100..1}; do $i ..; done

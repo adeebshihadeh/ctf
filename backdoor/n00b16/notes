@@ -1,0 +1,15 @@
+==== wahtzdis ====
+
+eval(document.getElementsByClassName("panel-body")[0].innerText)
+
+==== batman ====
+
+
+==== robot ====
+
+link to flag in robots.txt
+
+==== magic ====
+
+base64 + caesar
+

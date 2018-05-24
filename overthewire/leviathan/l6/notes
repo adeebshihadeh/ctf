@@ -1,0 +1,9 @@
+leviathan6 asks for a 4 digit passcode
+
+bruteforced
+
+7123
+
+correct passcode gives shell as leviathan7
+
+cat /etc/leviathan_pass/leviathan7

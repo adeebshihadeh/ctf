@@ -1,0 +1,25 @@
+
+
+
+==== hide_easy ====
+
+strings hide_easy
+
+
+==== hide_medium ====
+
+gdb -> call print_flag()
+
+==== no signal ====
+
+combine images
+
+==== sequel ====
+
+SELECT * FROM users WHERE username = 'sdslabs'; -- ' AND password_hash = '{$password}'
+
+==== sound ====
+
+slow down and reverse
+
+

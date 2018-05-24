@@ -1,0 +1,3 @@
+cat /etc/cron.d/cronjob_bandit24
+
+cat /usr/bin/cronjob_bandit24.sh

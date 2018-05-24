@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Mar 28 23:24:35 2018
+Invocation: foremost ugh.png 
+Output directory: /Users/adeebshihadeh/ownCloud/ctf/backdoor/n00b18/output
+Configuration file: /usr/local/etc/foremost.conf
+------------------------------------------------------------------
+File: ugh.png
+Start: Wed Mar 28 23:24:35 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	       1 KB 	          0 	  (130 x 45)
+Finish: Wed Mar 28 23:24:35 2018
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Mar 28 23:24:35 2018

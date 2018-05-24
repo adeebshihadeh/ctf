@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Let's get flag</title>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.width-hundered {
+  width: 100%;
+}
+
+.width-twenty {
+  width: 20%;
+}
+
+.width-eighty {
+  width: 80%;
+}
+
+body {
+  background-color: green;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.relative {
+  position: relative;
+  float: left;
+}
+.blue {
+  background-color: blue;
+}
+.clear-both {
+  clear: both;
+  overflow: auto;
+}
+
+div {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 0px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 10px 0px;
+}
+
+.top-10 {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.center {
+  text-align: center;
+}
+
+div img {
+  margin: 0 auto;
+}
+
+</style>
+</head>
+<body class="clear-both">
+<div class="relative width-hundered clear-both">
+  <div class="width-twenty blue relative">
+    <div>
+      <ul>
+        <li><a href="?st=1">Cape<a></li>
+        <li><a href="?st=2">Flag<a></li>
+        <li><a href="?st=3">Mask<a></li>
+        <li><a href="?st=4">Belt<a></li>
+        <li><a href="?st=5">Batarang<a></li>
+        <li><a href="?st=6">Batman<a></li>
+        <li><a href="?st=7">Freeze Gun<a></li>
+        <li><a href="?st=8">Joker<a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="width-eighty relative center">
+    <img src="./batman.png" alt="Batman logo" title="Batman logo"/>
+    <div class="top-10">
+      You have come to batman shop.<br/> Click on element on right side to buy them    </div>
+  </div>
+</div>
+
+</body>
+</html>

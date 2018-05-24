@@ -1,0 +1,3 @@
+ssh -l bandit20 -p 2220 -L 1234:localhost:22 bandit20@bandit.labs.overthewire.org
+
+nc -l localhost 5000

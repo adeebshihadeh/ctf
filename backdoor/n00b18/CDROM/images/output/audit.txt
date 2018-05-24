@@ -1,0 +1,24 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Mar 27 19:32:16 2018
+Invocation: foremost shh.jpg 
+Output directory: /Users/adeebshihadeh/ownCloud/ctf/backdoor/practice_arena/CDROM/images/output
+Configuration file: /usr/local/etc/foremost.conf
+------------------------------------------------------------------
+File: shh.jpg
+Start: Tue Mar 27 19:32:16 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      31 KB 	          0 	 
+1:	00020256.jpg 	       5 KB 	   10371574 	 
+Finish: Tue Mar 27 19:32:16 2018
+
+2 FILES EXTRACTED
+	
+jpg:= 2
+------------------------------------------------------------------
+
+Foremost finished at Tue Mar 27 19:32:16 2018

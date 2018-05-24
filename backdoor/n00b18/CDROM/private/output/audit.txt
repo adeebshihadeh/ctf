@@ -1,0 +1,105 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Mar 28 23:50:23 2018
+Invocation: foremost 3905a73201a5bedf4fe1bd949977f206.jpg IMG_132004.jpg baby1.jpeg baby2.jpeg baby3.jpg baby4.jpeg baby5.jpg brazuca_2014_world_cup_adidas_ball_football_95821_1920x1080.jpg challenges.png hitman-agent-4_www.FullHDWpp.com_.jpg 
+Output directory: /Users/adeebshihadeh/ownCloud/ctf/backdoor/n00b18/CDROM/private/output
+Configuration file: /usr/local/etc/foremost.conf
+------------------------------------------------------------------
+File: 3905a73201a5bedf4fe1bd949977f206.jpg
+Start: Wed Mar 28 23:50:23 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	     126 KB 	          0 	 
+Finish: Wed Mar 28 23:50:23 2018
+------------------------------------------------------------------
+File: IMG_132004.jpg
+Start: Wed Mar 28 23:50:23 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+1:	00000000_1.jpg 	     102 KB 	          0 	 
+Finish: Wed Mar 28 23:50:23 2018
+------------------------------------------------------------------
+File: baby1.jpeg
+Start: Wed Mar 28 23:50:23 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+2:	00000000_2.jpg 	      17 KB 	          0 	 
+Finish: Wed Mar 28 23:50:23 2018
+------------------------------------------------------------------
+File: baby2.jpeg
+Start: Wed Mar 28 23:50:23 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+3:	00000000_3.jpg 	      87 KB 	          0 	 
+Finish: Wed Mar 28 23:50:23 2018
+------------------------------------------------------------------
+File: baby3.jpg
+Start: Wed Mar 28 23:50:23 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+4:	00000000_4.jpg 	     126 KB 	          0 	 
+Finish: Wed Mar 28 23:50:23 2018
+------------------------------------------------------------------
+File: baby4.jpeg
+Start: Wed Mar 28 23:50:23 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+5:	00000000_5.jpg 	      59 KB 	          0 	 
+Finish: Wed Mar 28 23:50:23 2018
+------------------------------------------------------------------
+File: baby5.jpg
+Start: Wed Mar 28 23:50:23 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+6:	00000000_6.jpg 	      16 KB 	          0 	 
+Finish: Wed Mar 28 23:50:23 2018
+------------------------------------------------------------------
+File: brazuca_2014_world_cup_adidas_ball_football_95821_1920x1080.jpg
+Start: Wed Mar 28 23:50:23 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+7:	00000000_7.jpg 	     462 KB 	          0 	 
+Finish: Wed Mar 28 23:50:23 2018
+------------------------------------------------------------------
+File: challenges.png
+Start: Wed Mar 28 23:50:23 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+8:	00000000.png 	      45 KB 	          0 	  (1920 x 1080)
+Finish: Wed Mar 28 23:50:23 2018
+------------------------------------------------------------------
+File: hitman-agent-4_www.FullHDWpp.com_.jpg
+Start: Wed Mar 28 23:50:23 2018
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+9:	00000000_8.jpg 	      38 KB 	          0 	 
+Finish: Wed Mar 28 23:50:23 2018
+
+10 FILES EXTRACTED
+	
+jpg:= 9
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Mar 28 23:50:23 2018

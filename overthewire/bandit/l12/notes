@@ -1,0 +1,13 @@
+reverse hex
+gzip
+bzip2
+tar data5.bin
+tar data6.bin
+bzip2
+tar
+gzip
+
+
+data8 ASCII text
+
+cat data8
